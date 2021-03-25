@@ -19,8 +19,8 @@ Pada algoritma *BFS*, program mencari indeks dari simpul awal, membuat simpul me
 Menjalankan `Visualizer.exe`pada folder bin
 
 ## Requirement untuk Kompilasi Program
-Kami menggunakan Visual Studio Community Edition 2019 dalam membuat program ini, dengan membuka `Visualizer.sln` pada folder src dan menekan `F5` program akan ter-*compile* dan langsung dapat digunakan.
-
+* Kami menggunakan Visual Studio Community Edition 2019 dalam membuat program ini, dengan membuka `Visualizer.sln` pada folder src dan menekan `F5` program akan ter-*compile* dan langsung dapat digunakan.
+* Program dibuat dengan bahasa pemrograman C# dengan kakas Visual Studio .NET
 ## Struktur Folder
 ```
 FacePaper
