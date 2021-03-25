@@ -20,3 +20,26 @@ Menjalankan `Visualizer.exe`pada folder bin
 
 ## Requirement untuk Kompilasi Program
 Kami menggunakan Visual Studio Community Edition 2019 dalam membuat program ini, dengan membuka `Visualizer.sln` pada folder src dan menekan `F5` program akan ter-*compile* dan langsung dapat digunakan.
+
+## Struktur Folder
+```
+FacePaper
+│
+├── src
+│   └── Visualizer/         [ Kode `.cs` ada disini ]
+│       └── ... .cs
+│       └── ... 
+│   └── Visualizer.sln      [ `.sln` ]
+│   └── ...
+|
+├── bin/                    
+│   └── testInput/          [ Input File Eksternal ]
+│       └── ... .txt
+│   └── Visualizer.exe      [ Executables ]
+│   └── ...
+|
+├── doc
+│   └── FacePaper.pdf
+|
+└── README.md
+```
