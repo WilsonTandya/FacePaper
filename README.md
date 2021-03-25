@@ -18,5 +18,5 @@ Pada algoritma *BFS*, program mencari indeks dari simpul awal, membuat simpul me
 ## Cara Menggunakan Program
 Menjalankan `Visualizer.exe`pada folder bin
 
-## Requirement untuk Kompilase Program
-* Kami menggunakan Visual Studio Community Edition 2019 dalam membuat program ini, dengan membuka `Visualizer.sln` pada folder src dan menekan `F5` program akan ter-*compile* dan langsung dapat digunakan.
+## Requirement untuk Kompilasi Program
+Kami menggunakan Visual Studio Community Edition 2019 dalam membuat program ini, dengan membuka `Visualizer.sln` pada folder src dan menekan `F5` program akan ter-*compile* dan langsung dapat digunakan.
