@@ -1,45 +1,22 @@
 # Tugas Besar 2 - Strategi Algoritma
->  PENGAPLIKASIAN ALGORITMA *BFS* DAN *DFS* DALAM FITUR *PEOPLE YOU MAY KNOW* JEJARING SOSIAL *FACEBOOK*
+>  Pengaplikasian Algoritma *BFS* dan *DFS* dalam Fitur *People You May Know* Jejaring Sosial *Facebook*
 
-### Kelompok 8 - Anang Hijau
+### Kelompok 26 - *FacePaper*
 | Anggota | NIM |
 | --- | --- |
 |Muhammad Dzaki Razaan Faza | 13519033 |	
 |Joel Triwira| 13519073 |	
 |Wilson Tandya | 13519209 |
 
-## Table of contents
-* [General info](#general-info)
-* [Requirements](#technologies)
-* [Setup](#setup)
+## Penjelasan Singkat Algoritma yang Diimplementasikan
+Pada fitur *explore friends* terdapat dua opsi algoritma yang dapat digunakan, *DFS* dan *BFS*. Pada fitur *friend recommendations* algoritma yang digunakan adalah *BFS*.<\br>
 
-## General info
-![](./public/demo.gif)
-Sebuah bot permainan _Worms_ yang mengimplementasikan algoritma _Greedy_.
-Pada bot ini, terdapat 3 strategi _Greedy_ utama yang diimplementasikan yaitu:
-1. Strategi pergerakan (_move_) berdasarkan prioritas _health_ dan jarak ke musuh.
-2. Strategi pemilihan senjata berdasarkan _utilities_ yang ada.
-3. Strategi pengambilan _health pack_
+Pada algoritma *DFS*, program mencari indeks dari simpul awal, membuat simpul menjadi *visited*, memasukkan simpul awal ke dalam *stack*, mencari simpul berikutnya secara alfabetikal, bila simpul berikutnya bukan merupakan solusi, akan diulangi kembali proses hingga mendapatkan solusi / seluruh simpul telah dikunjungi.<\br>
 
-## Requirements
-**Environment requirements**
-* Install the **Java SE Development Kit 8** for your environment here: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-* Make sure **JAVA_HOME system variable** is set, Windows 10 tutorial here: https://www.mkyong.com/java/how-to-set-java_home-on-windows-10/
-* Install **IntelliJ IDEA** here: https://www.jetbrains.com/idea/download/
+Pada algoritma *BFS*, program mencari indeks dari simpul awal, membuat simpul menjadi *visited*, memasukkan simpul awal ke dalam *queue*, mengeluarkan simpul pertama dalam *queue* dan memasukkan semua tetanga dari simpul tersebut, cek apakah simpul merupkana solusi, bila belum akan diulangi proses hingga mendapatkan solusi / seluruh simpul telah dikunjungi.<\br>
 
-## Setup
-**Configuring the game and runner**
+## Cara Menggunakan Program
+Menjalankan 'Visualizer.exe' pada folder bin
 
-Simply edit the game-config.json and game-config-runner.json in the main folder.
-
-**Modifying the bot**
-1. Make your modifications to the starter bot using IntelliJ. 
-2. Once you are happy with your changes, package your bot by opening up the "Maven Projects" tab on the right side of the screen. 
-3. From here go to the "java-sample-bot" > "Lifecycle" group and double-click "Install" This will create a .jar file in the folder called "target". 
-4. The file will be called "java-sample-bot-jar-with-dependencies.jar".
-
-**Running**
-
-Simply run (double-click) the "run.bat" file, or open up Command Prompt in the starter pack's root directory and run the "run.bat" command.
-
-## Thank you
+## Requirement untuk Kompilase Program
+* Kami menggunakan Visual Studio Community Edition 2019 dalam membuat program ini, dengan membuka 'Visualizer.sln' pada folder src dan menekan 'F5' program akan ter-*compile* dan langsung dapat digunakan.
