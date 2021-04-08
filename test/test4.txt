@@ -1,0 +1,12 @@
+11
+D S
+S M
+M A
+P C
+C J
+J P
+J L
+L E
+E J
+D M
+D J

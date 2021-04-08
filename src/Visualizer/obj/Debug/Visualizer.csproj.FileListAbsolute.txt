@@ -1,0 +1,15 @@
+C:\Users\wilso\source\repos\Visualizer\Visualizer\bin\Debug\Visualizer.exe.config
+C:\Users\wilso\source\repos\Visualizer\Visualizer\bin\Debug\Visualizer.exe
+C:\Users\wilso\source\repos\Visualizer\Visualizer\bin\Debug\Visualizer.pdb
+C:\Users\wilso\source\repos\Visualizer\Visualizer\bin\Debug\AutomaticGraphLayout.dll
+C:\Users\wilso\source\repos\Visualizer\Visualizer\bin\Debug\AutomaticGraphLayout.Drawing.dll
+C:\Users\wilso\source\repos\Visualizer\Visualizer\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\wilso\source\repos\Visualizer\Visualizer\bin\Debug\Microsoft.Msagl.WpfGraphControl.dll
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.Properties.Resources.resources
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.GenerateResource.cache
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.csproj.CopyComplete
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.exe
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.pdb
+C:\Users\wilso\source\repos\Visualizer\Visualizer\obj\Debug\Visualizer.Form1.resources

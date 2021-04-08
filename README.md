@@ -31,15 +31,15 @@ FacePaper
 │       └── ... 
 │   └── Visualizer.sln      [ `.sln` ]
 │   └── ...
-|
+│
 ├── bin/                    
-│   └── testInput/          [ Input File Eksternal ]
-│       └── ... .txt
-│   └── Visualizer.exe      [ Executables ]
+│   └── Visualizer.exe      [ Executable ]
 │   └── ...
-|
+│
+├── test/                   [ Input File Eksternal ]
+│   └── ... .txt
 ├── doc
 │   └── FacePaper.pdf
-|
+│
 └── README.md
 ```
